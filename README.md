@@ -1,6 +1,9 @@
 # Budget Tracker PWA
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 <br>
+<br>
+![image](https://user-images.githubusercontent.com/62626932/94837637-842d8500-03e2-11eb-9360-2fed43ef2518.png)
+<br>
 ## Deployment
 A link to the deployed application can be found [HERE](https://danny-budget-tracker.herokuapp.com/)<br>
 ## License
